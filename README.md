@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **IeltsGo**
 
+- 🔭 I’m currently working on **DermAi**
+
 - 🌱 I’m currently learning **Mobile App Development and AI Integration**
 
-- 🔭 I’m currently working on **DermAi**
+
 
 - 📫 My Linkedin Account [https://www.linkedin.com/in/ayse-verda-gulcemal-5ba448249/](https://www.linkedin.com/in/ayse-verda-gulcemal-5ba448249/)
 
