@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayse Verda</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **IeltsGo**
 
 - 🔭 I’m currently working on **DermAi**
 
