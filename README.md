@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on **DermAi**
+- 🔭 I’m currently working on **dermAI**
 
 - 🌱 I’m currently learning **Mobile App Development and AI Integration**
 
