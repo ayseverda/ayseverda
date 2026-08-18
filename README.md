@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayse Verda</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
-
-
-- 🔭 I’m currently working on **dermAI**
-
-- 🌱 I’m currently learning **Mobile App Development and AI Integration**
-
-
+<h3 align="center">software developer</h3>
 
 - 📫 My Linkedin Account [https://www.linkedin.com/in/ayse-verda-gulcemal-5ba448249/](https://www.linkedin.com/in/ayse-verda-gulcemal-5ba448249/)
 
 - 📫 How to reach me **ayseeverda@gmail.com**
 
-- 🐈 Fun fact **I love cats 🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
